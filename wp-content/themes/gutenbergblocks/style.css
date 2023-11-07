@@ -1,0 +1,18 @@
+/*
+Theme Name: Gutenberg Blocks
+Theme URI: https://wescouch.com/
+Author: Wes Couch
+Author URI: https://wescouch.com/
+Description: A test theme to use when creating Gutenberg + React.js blocks
+Requires at least: 6.0
+Tested up to: 6.3
+Requires PHP: 8.0
+Version: 1
+Text Domain: gutenbergblocks
+Tags: editor-style, featured-images, block-patterns, block-styles, accessibility-ready, blog
+*/
+
+body {
+	-moz-osx-font-smoothing: grayscale;
+	-webkit-font-smoothing: antialiased;
+}
