@@ -4,16 +4,21 @@
 	"name": "create-block/wp-learn-todo",
 	"version": "0.1.0",
 	"title": "Wp Learn Todo",
-	"category": "widgets",
+	"category": "text",
 	"icon": "smiley",
 	"description": "Example block scaffolded with Create Block tool.",
-	"example": {},
 	"supports": {
 		"html": false
 	},
+	"attributes": {
+		"heading": {
+			"type": "string"
+		}
+	},
+	"example": {},
 	"textdomain": "wp-learn-todo",
-	"editorScript": "file:./index.js",
 	"editorStyle": "file:./index.css",
 	"style": "file:./style-index.css",
+	"editorScript": "file:./index.js",
 	"viewScript": "file:./view.js"
 }

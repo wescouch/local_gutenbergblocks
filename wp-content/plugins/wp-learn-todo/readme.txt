@@ -25,6 +25,37 @@ e.g.
 1. Activate the plugin through the 'Plugins' screen in WordPress
 
 
+== Commands ==
+
+= npm start =
+
+Starts the build for development.
+
+= npm run build =
+
+Starts the build for production.
+
+= npm run format =
+
+Formats files.
+
+= npm run lint:css =
+
+Lints CSS files.
+
+= npm run lint:js =
+
+Lints JavaScript files.
+
+= npm run plugin-zip =
+
+Creates a zip file for a WordPress plugin.
+
+= npm run packages-update =
+
+Updates WordPress packages to the latest version.
+
+
 == Frequently Asked Questions ==
 
 = A question that someone might have =
