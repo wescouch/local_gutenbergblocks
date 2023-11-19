@@ -1,0 +1,29 @@
+/*!****************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/editor.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************/
+/**
+ * The following styles get applied inside the editor only.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+.wp-block-create-block-card-block .card-image-container {
+  display: flex;
+  min-height: 42px;
+}
+.wp-block-create-block-card-block .card-image-container .card-image + button.mediaupload-card-image {
+  background: rgba(239, 239, 239, 0.8);
+  opacity: 0;
+  transition: 0.3s ease;
+}
+.wp-block-create-block-card-block .card-image-container .card-image + button.mediaupload-card-image:hover, .wp-block-create-block-card-block .card-image-container .card-image + button.mediaupload-card-image:focus {
+  opacity: 1;
+}
+.wp-block-create-block-card-block .card-image-container button.mediaupload-card-image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/*# sourceMappingURL=index.css.map*/

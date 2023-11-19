@@ -1,0 +1,32 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "create-block/card-block",
+	"version": "0.1.0",
+	"title": "Card Block",
+	"category": "gutenbergblocks",
+	"description": "A block used to display information in a card design.",
+	"example": {},
+	"supports": {
+		"html": false
+	},
+	"attributes": {
+		"heading": {
+			"type": "string"
+		},
+		"content": {
+			"type": "string"
+		},
+		"optional_image": {
+			"type": "string",
+			"source": "attribute",
+			"selector": "img",
+			"attribute": "src"
+		}
+	},
+	"textdomain": "card-block",
+	"editorScript": "file:./index.js",
+	"editorStyle": "file:./index.css",
+	"style": "file:./style-index.css",
+	"viewScript": "file:./view.js"
+}

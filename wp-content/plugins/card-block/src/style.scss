@@ -1,0 +1,38 @@
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.wp-block-create-block-card-block {
+	display: flex;
+	flex-direction: column;
+	background: #fff;
+	border-radius: 5px;
+	box-shadow: 1px 1px 8px rgba(0,0,0,0.15);
+
+	.card-image-container {
+		position: relative;
+
+		.card-image {
+			width: 100%;
+			border-top-left-radius: 5px;
+			border-top-right-radius: 5px;
+		}
+	}
+	.card-content-container {
+		padding: 20px;
+	}
+
+	/* Media Queries */
+	@media (min-width: 576px) {}
+	@media (min-width: 768px) {}
+	@media (min-width: 992px) {
+		.card-content-container {
+			padding: 20px 40px;
+		}
+	}
+	@media (min-width: 1200px) {}
+	@media (min-width: 1400px) {}
+}

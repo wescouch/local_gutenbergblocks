@@ -1,0 +1,35 @@
+/*!***************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/style.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************/
+/**
+ * The following styles get applied both on the front of your site
+ * and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+.wp-block-create-block-card-block {
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.15);
+  /* Media Queries */
+}
+.wp-block-create-block-card-block .card-image-container {
+  position: relative;
+}
+.wp-block-create-block-card-block .card-image-container .card-image {
+  width: 100%;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+.wp-block-create-block-card-block .card-content-container {
+  padding: 20px;
+}
+@media (min-width: 992px) {
+  .wp-block-create-block-card-block .card-content-container {
+    padding: 20px 40px;
+  }
+}
+
+/*# sourceMappingURL=style-index.css.map*/

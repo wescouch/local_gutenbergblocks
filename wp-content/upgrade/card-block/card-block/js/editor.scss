@@ -1,0 +1,32 @@
+/*
+ * Common SCSS can contain your common variables, helpers and mixins
+ * that are shared between all of your blocks.
+ */
+
+// Colors
+$gray: #cccccc;
+$off-white: #f1f1f1;
+
+.container {
+  border: 1px solid $gray;
+  padding: 1rem;
+}
+
+.button-container {
+  text-align: center;
+  padding: 22% 0;
+  background: $off-white;
+  border: 1px solid $gray;
+  border-radius: 2px;
+  margin: 0 0 1.2rem 0;
+}
+
+.heading {
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+.image {
+  height: 15.7rem;
+  object-fit: cover;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "card-block/main",
+  "category": "common",
+  "attributes": {
+    "title": {
+      "source": "text",
+      "selector": ".card__title"
+    },
+    "body": {
+      "type": "array",
+      "source": "children",
+      "selector": ".card__body"
+    },
+    "imageAlt": {
+      "attribute": "alt",
+      "selector": ".card__image"
+    },
+    "imageUrl": {
+      "attribute": "src",
+      "selector": ".card__image"
+    }
+  }
+}

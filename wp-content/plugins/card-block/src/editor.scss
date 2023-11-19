@@ -1,0 +1,32 @@
+/**
+ * The following styles get applied inside the editor only.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+
+.wp-block-create-block-card-block {
+	.card-image-container {
+		display: flex;
+    min-height: 42px;
+
+		.card-image {
+			& + button.mediaupload-card-image {
+				background: rgba(239,239,239,0.8);
+				opacity: 0;
+				transition: 0.3s ease;
+
+				&:hover,
+				&:focus {
+					opacity: 1;
+				}
+			}
+		}
+		button.mediaupload-card-image {
+			position: absolute;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+		}
+	}
+}
