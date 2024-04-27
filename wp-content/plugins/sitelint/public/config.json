@@ -1,0 +1,4 @@
+{
+  "apiUrl": "https://platform.sitelint.com/api/v1/",
+  "auditorUrl": "https://auditor.sitelint.com"
+}

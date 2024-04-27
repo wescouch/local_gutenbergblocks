@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800">
+  <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" color="#000" overflow="visible"
+    fill="#fff" fill-rule="evenodd" d="M0 0h1200v800.469H0z" />
+  <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"
+    d="M600 179.129a440.212 440.212 0 00-440.213 440.21h880.426A440.212 440.212 0 00600 179.13z" color="#000"
+    overflow="visible" fill-opacity=".028" fill-rule="evenodd" />
+  <g transform="translate(0 100)" color="#000" fill="#fff" fill-rule="evenodd">
+    <circle style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" cx="433.116" cy="234.511"
+      r="5.139" overflow="visible" />
+    <circle style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" cx="574.144" cy="171.134"
+      r="5.139" overflow="visible" />
+    <circle style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" cx="954.405" cy="383.532"
+      r="2.855" overflow="visible" />
+    <circle style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" cx="737.439" cy="182.554"
+      r="2.855" overflow="visible" />
+    <circle style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" cx="446.248" cy="142.586"
+      r="2.855" overflow="visible" />
+    <circle style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" cx="232.708" cy="426.926"
+      r="2.855" overflow="visible" />
+    <circle style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" cx="948.695" cy="188.263"
+      r="2.855" overflow="visible" />
+    <circle style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" cx="458.809" cy="344.707"
+      r="2.855" overflow="visible" />
+    <circle style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" cx="319.637" cy="155.708"
+      r="2.855" overflow="visible" />
+    <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"
+      d="M347.488 211.523l-2.932 18.996 17.954 6.864-18.996-2.933-6.864 17.955 2.933-18.997-17.955-6.863 18.997 2.932zM983.991 234.16l-2.484 14.06 11.503 8.455-14.06-2.484-8.455 11.504 2.485-14.06-11.504-8.456 14.06 2.485zM643.94 137.909l-2.638 8.524 6.605 5.999-8.524-2.638-5.999 6.605 2.639-8.524-6.606-6 8.524 2.64zM202.647 473.23l-13.535 6.9 3.897 14.682-6.899-13.534-14.683 3.896 13.535-6.898-3.897-14.683 6.899 13.534zM988.575 422.848l-5.789 6.882 3.98 8.064-6.882-5.788-8.064 3.98 5.788-6.882-3.98-8.065 6.882 5.789z"
+      overflow="visible" />
+  </g>
+  <g transform="translate(0 -252.362)" color="#000">
+    <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" d="M90.15 871.703h1019.7"
+      overflow="visible" fill="#f6f7fc" fill-rule="evenodd" stroke="#252f71" stroke-width="4" stroke-linecap="round"
+      stroke-linejoin="round" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="127.579" height="225.282"
+      x="254.062" y="646.42" ry="8.713" overflow="visible" fill="#ababd2" fill-rule="evenodd" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="410.359" height="287.517"
+      x="491.12" y="567.238" ry="13.364" overflow="visible" fill="#ababd2" fill-rule="evenodd" stroke="#252f71"
+      stroke-width="4" />
+    <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"
+      d="M446.631 836.511s1.231 9.694 7.637 20.252c8.546 14.087 20.916 14.94 20.916 14.94h442.23s12.37-.853 20.916-14.94c6.406-10.558 7.637-20.252 7.637-20.252H446.63z"
+      overflow="visible" fill="#ababd2" fill-rule="evenodd" />
+    <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"
+      d="M637.139 836.511a12.65 12.65 0 0012.678 12.678h92.964a12.65 12.65 0 0012.678-12.678H637.14z" overflow="visible"
+      fill="#c0d2e8" fill-rule="evenodd" />
+    <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"
+      d="M446.631 836.511s1.231 9.694 7.637 20.252c8.546 14.087 20.916 14.94 20.916 14.94h442.23s12.37-.853 20.916-14.94c6.406-10.558 7.637-20.252 7.637-20.252H446.63z"
+      overflow="visible" fill="none" stroke="#252f71" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="380.47" height="230.084"
+      x="506.064" y="582.182" ry="3.756" overflow="visible" fill="#e0e3f6" fill-rule="evenodd" stroke="#252f71"
+      stroke-width="4" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="189.689" height="155.413"
+      x="561.336" y="629.813" ry="6.104" overflow="visible" fill="#f6f7fc" fill-rule="evenodd" />
+    <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"
+      d="M567.44 629.814a6.09 6.09 0 00-6.104 6.104v5.959h189.69v-5.96a6.092 6.092 0 00-6.106-6.103H567.44z"
+      overflow="visible" fill="#ababd2" fill-rule="evenodd" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="6.808" height="6.808"
+      x="741.59" y="632.441" ry="3.404" overflow="visible" fill="#e0e3f6" fill-rule="evenodd" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="6.808" height="6.808"
+      x="731.378" y="632.441" ry="3.404" overflow="visible" fill="#c0d2e8" fill-rule="evenodd" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="189.689" height="155.413"
+      x="561.336" y="629.813" ry="6.104" overflow="visible" fill="none" stroke="#ababd2" stroke-width="2" />
+    <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"
+      d="M581.056 738.75l30.05-26.892 30.05 18.26 30.05-36.189 30.049 4.648 30.05-27.556" overflow="visible" fill="none"
+      stroke="#ababd2" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+    <circle style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" cx="611.106" cy="711.858"
+      r="4.226" overflow="visible" fill="#ababd2" fill-rule="evenodd" />
+    <circle style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" cx="641.155" cy="730.118"
+      r="4.226" overflow="visible" fill="#ababd2" fill-rule="evenodd" />
+    <circle style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" cx="671.205" cy="693.929"
+      r="4.226" overflow="visible" fill="#ababd2" fill-rule="evenodd" />
+    <circle style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" cx="581.056" cy="738.75"
+      r="4.226" overflow="visible" fill="#ababd2" fill-rule="evenodd" />
+    <circle style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" cx="701.255" cy="698.577"
+      r="4.226" overflow="visible" fill="#ababd2" fill-rule="evenodd" />
+    <circle style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" cx="731.304" cy="671.021"
+      r="4.226" overflow="visible" fill="#ababd2" fill-rule="evenodd" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="10.79" height="20.086"
+      x="575.661" y="752.762" ry="1.245" overflow="visible" fill="#ababd2" fill-rule="evenodd" stroke="#c0d2e8"
+      stroke-width="2" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="10.243" height="34.314"
+      x="605.984" y="738.261" ry="2.127" overflow="visible" fill="#ababd2" fill-rule="evenodd" stroke="#c0d2e8"
+      stroke-width="2.547" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="10.427" height="29.019"
+      x="635.942" y="743.648" ry="1.799" overflow="visible" fill="#ababd2" fill-rule="evenodd" stroke="#c0d2e8"
+      stroke-width="2.363" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="10.27" height="33.51"
+      x="666.07" y="739.078" ry="2.077" overflow="visible" fill="#ababd2" fill-rule="evenodd" stroke="#c0d2e8"
+      stroke-width="2.52" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="9.644" height="55.626"
+      x="696.433" y="716.649" ry="3.448" overflow="visible" fill="#ababd2" fill-rule="evenodd" stroke="#c0d2e8"
+      stroke-width="3.146" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="9.315" height="70.238"
+      x="726.647" y="701.873" ry="4.354" overflow="visible" fill="#ababd2" fill-rule="evenodd" stroke="#c0d2e8"
+      stroke-width="3.475" />
+    <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"
+      d="M594.59 656.672c-10.523.001-19.053 8.533-19.053 19.058 0 10.524 8.53 19.056 19.053 19.057a19.055 19.055 0 0016.36-9.328l-16.36-9.73zm16.36 28.787z"
+      overflow="visible" fill="#e0e3f6" fill-rule="evenodd" stroke="#c0d2e8" stroke-width="2" stroke-linecap="round"
+      stroke-linejoin="round" />
+    <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"
+      d="M598.576 654.246v19.058l16.359 9.73a19.055 19.057 0 002.696-9.73 19.055 19.057 0 00-19.055-19.058z"
+      overflow="visible" fill="#e0e3f6" fill-rule="evenodd" stroke="#c0d2e8" stroke-width="2" stroke-linecap="round"
+      stroke-linejoin="round" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="103.765" height="31.928"
+      x="773.169" y="591.782" ry="5.752" overflow="visible" fill="#f6f7fc" fill-rule="evenodd" stroke="#c0d2e8" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="6.808" height="6.808"
+      x="775.649" y="594.262" ry="3.404" overflow="visible" fill="#c0d2e8" fill-rule="evenodd" />
+    <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"
+      d="M791.018 607.746h74.348M791.018 600.156h70.426M791.018 615.335h45.105" overflow="visible" fill="#f6f7fc"
+      fill-rule="evenodd" stroke="#c0d2e8" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="127.579" height="195.544"
+      x="254.062" y="658.463" ry="0" overflow="visible" fill="#e0e3f6" fill-rule="evenodd" />
+    <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" d="M254.062 658.463H381.64"
+      overflow="visible" fill="#e0e3f6" fill-rule="evenodd" stroke="#252f71" stroke-width="4" stroke-linecap="round"
+      stroke-linejoin="round" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="17.663" height="5.047"
+      x="309.02" y="649.918" ry="2.523" overflow="visible" fill="#252f71" fill-rule="evenodd" />
+    <circle style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" cx="301.45" cy="652.442"
+      r="2.523" overflow="visible" fill="#252f71" fill-rule="evenodd" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="22.485" height="8.813"
+      x="306.609" y="858.449" ry="1.979" overflow="visible" fill="#252f71" fill-rule="evenodd" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="127.579" height="225.282"
+      x="254.062" y="646.42" ry="8.713" overflow="visible" fill="none" stroke="#252f71" stroke-width="4" />
+    <circle style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" cx="696.299" cy="574.71"
+      r="3.134" overflow="visible" fill="#252f71" fill-rule="evenodd" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="109.815" height="75.094"
+      x="262.944" y="667.145" ry="3.23" overflow="visible" fill="#f6f7fc" fill-rule="evenodd" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="109.815" height="35.125"
+      x="262.944" y="750.313" ry="1.511" overflow="visible" fill="#f6f7fc" fill-rule="evenodd" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="109.815" height="35.125"
+      x="262.944" y="793.513" ry="1.511" overflow="visible" fill="#f6f7fc" fill-rule="evenodd" />
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="2" height="67.019"
+      x="266.981" y="671.182" ry="0" overflow="visible" fill="#e0e3f6" fill-rule="evenodd" />
+    <g transform="translate(127.066 -29.126)" fill="#ababd2" fill-rule="evenodd">
+      <rect ry=".7" y="740.164" x="162.253" height="26.163" width="8.694"
+        style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" overflow="visible" />
+      <rect ry=".811" y="736.025" x="145.463" height="30.303" width="8.694"
+        style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" overflow="visible" />
+      <rect ry=".957" y="730.601" x="178.543" height="35.727" width="8.694"
+        style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" overflow="visible" />
+      <rect ry=".773" y="737.452" x="195.833" height="28.875" width="8.694"
+        style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" overflow="visible" />
+      <rect ry=".957" y="730.572" x="212.623" height="35.756" width="8.694"
+        style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" overflow="visible" />
+      <rect ry="1.309" y="717.451" x="229.413" height="48.877" width="8.694"
+        style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" overflow="visible" />
+    </g>
+    <rect style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" width="2" height="101.74"
+      x="736.201" y="-368.721" ry="0" transform="rotate(90)" overflow="visible" fill="#e0e3f6" fill-rule="evenodd" />
+    <g fill="none" stroke="#e0e3f6" stroke-width="3" stroke-linejoin="round">
+      <path d="M270.747 767.876H363.1M271.032 760.096h93.924M270.747 775.655h43.536"
+        style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" overflow="visible" />
+    </g>
+    <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"
+      d="M270.747 811.075h54.604M271.032 803.296h79.591M270.747 818.854h67.76" overflow="visible" fill="none"
+      stroke="#e0e3f6" stroke-width="3" stroke-linejoin="round" />
+    <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1"
+      d="M264.455 836.712c-.837 0-1.512.673-1.512 1.51v15.785H372.76v-15.785c0-.837-.675-1.51-1.512-1.51H264.455z"
+      overflow="visible" fill="#f6f7fc" fill-rule="evenodd" />
+    <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" d="M254.062 854.008H381.64"
+      overflow="visible" fill="#e0e3f6" fill-rule="evenodd" stroke="#252f71" stroke-width="4" stroke-linecap="round"
+      stroke-linejoin="round" />
+    <path style="isolation:auto;mix-blend-mode:normal;solid-color:#000;solid-opacity:1" d="M271.032 846.495h79.591"
+      overflow="visible" fill="none" stroke="#e0e3f6" stroke-width="3" stroke-linejoin="round" />
+  </g>
+</svg>
